@@ -1,0 +1,10 @@
+torch>=2.0
+torchvision
+transformers>=4.40
+pillow
+accelerate
+loguru
+datasets
+numpy
+lmms-eval
+decord
