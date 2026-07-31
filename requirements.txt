@@ -1,8 +1,12 @@
-torch>=2.0
-torchvision
-transformers>=4.40
-pillow
+torch==2.5.1
+torchvision==0.20.1
+transformers==4.51.3
 accelerate
+huggingface_hub
+pillow
+tiktoken
+blobfile
+openai
 loguru
 datasets
 numpy
